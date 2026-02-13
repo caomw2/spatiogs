@@ -6,6 +6,10 @@ The dataset provided in [HyperNeRF](https://github.com/google/hypernerf) is used
 
 Meanwhile, We adopted [4DGS](https://github.com/hustvl/4DGaussians) scripts for processing the Neu3D and HyperNerf dataset.
 
+## Download
+Another way to download the source code of SpatioGS:
+Link: https://pan.baidu.com/s/10jbx7iTwVebjFYJbxlw02Q?pwd=utmb code: utmb
+
 ## Training
 
 For training Neu3D scene such as `cut_roasted_beef`, run
